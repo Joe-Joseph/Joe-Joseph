@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joe-Joseph
 - 👀 I’m interested in web applications development
-- 🌱 I want to learn React Native
+- 🌱 I'm learning Flutter
 - 👀 I’m looking to collaborate on any node or react app
 - 📫 How to reach me on email: jostheblessing@gmail.com LinkedIn: https://www.linkedin.com/in/joseph-nkurunziza-452069111/
 
