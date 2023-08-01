@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Joe-Joseph
-- 👀 I’m interested in Web and Mobile applications development
-- 🌱 I'm learning Flutter
-- 👀 I’m looking to collaborate on any node or react app
-- 📫 How to reach me on email: jostheblessing@gmail.com
+- 👀 I’m interested in Web and Mobile application development
+- 📫 How to reach me via email: jostheblessing@gmail.com
 
 <!---
 Joe-Joseph/Joe-Joseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
